@@ -28,4 +28,4 @@ FanartClient.sharedInstance.fanartForShow(247808) { (show, error) -> (Void) in
 ```
 
 ##Contact
-If have any question or suggestion feel free to contact me at [@fitomad([https://twitter.com/fitomad) on Twitter.
+If have any question or suggestion feel free to contact me at [@fitomad](https://twitter.com/fitomad) on Twitter.

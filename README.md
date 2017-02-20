@@ -29,3 +29,6 @@ FanartClient.sharedInstance.fanartForShow(247808) { (show, error) -> (Void) in
 
 ##Contact
 If have any question or suggestion feel free to contact me at [@fitomad](https://twitter.com/fitomad) on Twitter.
+
+##About
+This framework was written with `Swift 2` in mind. A new version ported to `Swift 3.1` is on the way. Stay in tune.

@@ -43,7 +43,7 @@ public final class FanartClient
     public static let shared: FanartClient = FanartClient()
     
     /// Your Fanart.TV  project/personal api key
-    private let apiKey: String = "32506e12c111300375a3444dbfb5e6c4"
+    private let apiKey: String = "YOUR-API-KEY"
     /// All the api request starts with this.
     private let baseURL: String = "https://webservice.fanart.tv/v3"
 

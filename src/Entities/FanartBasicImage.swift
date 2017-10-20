@@ -16,7 +16,7 @@ public class FanartBasicImage : Equatable
     /// Image identifier
     public internal(set) var imageID: Int!
     /// The image URL
-    public internal(set) var url: NSURL!
+    public internal(set) var url: URL!
     /// How much people like this image
     public internal(set) var likes: Int!
 }

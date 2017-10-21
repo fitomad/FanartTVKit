@@ -1,4 +1,6 @@
 # FanartTVKit
+![License Mit](https://img.shields.io/github/license/mashape/apistatus.svg) ![Xcode 9.0](https://img.shields.io/badge/Xcode-9.0-red.svg) ![iOS 11](https://img.shields.io/badge/iOS-11-red.svg) ![macOS 10.13](https://img.shields.io/badge/macOS-10.13-red.svg) ![Swift 4.0](https://img.shields.io/badge/Swift-4.0-orange.svg)
+
 Fanart.TV API written in Swift. This new version has been fully rewritten in **Swift 4.0** and redesigned to acomplish the new *API design guideline* conventions also.
 
 The [Fanart.TV](http://fanart.tv) is the best place to find images related to movies, shows or music. First of all you have to obtain an [API Key](https://fanart.tv/get-an-api-key/). Read [API documentation](http://docs.fanarttv.apiary.io/#) it's a really good idea.

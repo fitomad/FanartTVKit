@@ -1,5 +1,5 @@
 # FanartTVKit
-![License Mit](https://img.shields.io/badge/license-MIT-lightgrey.svg) ![Xcode 9.0](https://img.shields.io/badge/Xcode-9.0-red.svg) ![iOS 11](https://img.shields.io/badge/iOS-11-red.svg) ![macOS 10.13](https://img.shields.io/badge/macOS-10.13-red.svg) ![Swift 4.0](https://img.shields.io/badge/Swift-4.0-orange.svg)
+![License Mit](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square) ![Xcode 9.0](https://img.shields.io/badge/Xcode-9.0-red.svg?style=flat-square) ![iOS 11](https://img.shields.io/badge/iOS-11-red.svg?style=flat-square) ![macOS 10.13](https://img.shields.io/badge/macOS-10.13-red.svg?style=flat-square) ![Swift 4.0](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat-square)
 
 Fanart.TV API written in Swift. This new version has been fully rewritten in **Swift 4.0** and redesigned to acomplish the new *API design guideline* conventions also.
 
